@@ -1,0 +1,25 @@
+/* colors */
+body {
+  background-color: #D3D3D3;
+}
+
+h3 {
+  color: #D2691E;
+}
+
+header,
+footer {
+  background-color: #A9A9A9;
+}
+
+/*position*/
+header, footer, h1, h2 {
+  text-align: center;
+}
+
+/* margins */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
